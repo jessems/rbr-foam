@@ -1,0 +1,122 @@
+./00_Settings/---.md
+./01_Introduction/Introduction.md
+./02_The Diagnosis/00_Introduction/01.md
+./02_The Diagnosis/01_What you may feel/01 What you may feel.md
+./02_The Diagnosis/02_Why you feel this way/01.md
+./02_The Diagnosis/06_The Road Ahead/01 The Road Ahead.md
+./02_The Diagnosis/06_The Road Ahead/02 Protest.md
+./02_The Diagnosis/06_The Road Ahead/03 Despair.md
+./02_The Diagnosis/06_The Road Ahead/04 Progressing.md
+./02_The Diagnosis/06_The Road Ahead/05 How do you know you're over her.md
+./02_The Diagnosis/06_The Road Ahead/06 What is the fastest way to get over her.md
+./02_The Diagnosis/06_The Road Ahead/07 How long is this going to take.md
+./02_The Diagnosis/07_Why Recovery Is Hard/01.md
+./02_The Diagnosis/07_Why Recovery Is Hard/02.md
+./02_The Diagnosis/07_Why Recovery Is Hard/03.md
+./02_The Diagnosis/07_Why Recovery Is Hard/04.md
+./02_The Diagnosis/07_Why Recovery Is Hard/05.md
+./02_The Diagnosis/07_Why Recovery Is Hard/06.md
+./02_The Diagnosis/07_Why Recovery Is Hard/07.md
+./02_The Diagnosis/07_Why Recovery Is Hard/08.md
+./02_The Diagnosis/07_Why Recovery Is Hard/09.md
+./02_The Diagnosis/07_Why Recovery Is Hard/10.md
+./02_The Diagnosis/07_Why Recovery Is Hard/11.md
+./02_The Diagnosis/07_Why Recovery Is Hard/12.md
+./03_Starting your recovery/00_Introduction/01.md
+./03_Starting your recovery/01_Accept Your Situation/02.md
+./03_Starting your recovery/02_Reaching Your Tipping Point/01.md
+./03_Starting your recovery/02_Reaching Your Tipping Point/02.md
+./03_Starting your recovery/03_Choose To Recover/01.md
+./03_Starting your recovery/04_Take responsibility/01.md
+./03_Starting your recovery/05_Assuming It's Over/Assuming it's over.md
+./03_Starting your recovery/07_Listening to her actions/01.md
+./03_Starting your recovery/08_Perhaps she isn't the one/Perhaps she isn’t the one.md
+./03_Starting your recovery/09_Closure/Closure.md
+./04_Recovery Principles/00_Introduction/01.md
+./04_Recovery Principles/02_Awareness/01.md
+./04_Recovery Principles/02_Awareness/02.md
+./04_Recovery Principles/02_Awareness/03.md
+./04_Recovery Principles/03_Equanimity/01.md
+./04_Recovery Principles/03_Equanimity/02.md
+./04_Recovery Principles/03_Equanimity/03.md
+./04_Recovery Principles/03b_Self-Compassion/Self-compassion.md
+./04_Recovery Principles/04_Positivity/Positivity.md
+./04_Recovery Principles/05_Shared Experience/01.md
+./04_Recovery Principles/05_Shared Experience/02.md
+./04_Recovery Principles/08_No Contact/01.md
+./04_Recovery Principles/08_No Contact/02.md
+./04_Recovery Principles/08_No Contact/03.md
+./04_Recovery Principles/08_No Contact/04 - 2.md
+./04_Recovery Principles/08_No Contact/05 - 2.md
+./04_Recovery Principles/08_No Contact/06.md
+./04_Recovery Principles/08_No Contact/07.md
+./04_Recovery Principles/08_No Contact/08.md
+./04_Recovery Principles/08_No Contact/09 - 2.md
+./04_Recovery Principles/08_No Contact/10 - 2.md
+./04_Recovery Principles/08_No Contact/11 - 2.md
+./04_Recovery Principles/08_No Contact/12.md
+./04_Recovery Principles/09_Social bonding/01.md
+./04_Recovery Principles/09_Social bonding/03.md
+./04_Recovery Principles/09_Social bonding/04.md
+./04_Recovery Principles/09_Social bonding/05.md
+./04_Recovery Principles/10_Physical Exercise/Physical exercise.md
+./04_Recovery Principles/11_Helpful Mindsets/01.md
+./04_Recovery Principles/11_Helpful Mindsets/02.md
+./04_Recovery Principles/11_Helpful Mindsets/03.md
+./04_Recovery Principles/11_Helpful Mindsets/04.md
+./04_Recovery Principles/11_Helpful Mindsets/05.md
+./04_Recovery Principles/11_Helpful Mindsets/06.md
+./04_Recovery Principles/11_Helpful Mindsets/07.md
+./04_Recovery Principles/11_Helpful Mindsets/08.md
+./04_Recovery Principles/11_Helpful Mindsets/09.md
+./04_Recovery Principles/11_Helpful Mindsets/10.md
+./04_Recovery Principles/12_Meditation/01.md
+./04_Recovery Principles/13_Self Expression/01 Expressive writing.md
+./04_Recovery Principles/13_Self Expression/01 Writing.md
+./04_Recovery Principles/13_Self Expression/02 Journaling.md
+./04_Recovery Principles/13_Self Expression/04 Letter to your ex.md
+./04_Recovery Principles/13_Self Expression/05.md
+./06_Dealing With Pain & Obsessive Thoughts/00_Introduction/01.md
+./06_Dealing With Pain & Obsessive Thoughts/01_Beware of self-medicating/Beware of self-medicating.md
+./06_Dealing With Pain & Obsessive Thoughts/02_Time to grieve/Time to grieve vs. time not to grieve.md
+./06_Dealing With Pain & Obsessive Thoughts/03_Letter to your ex/Letter to your ex.md
+./06_Dealing With Pain & Obsessive Thoughts/04_Bringing mindfulness to emotions/01.md
+./06_Dealing With Pain & Obsessive Thoughts/04_Bringing mindfulness to emotions/02.md
+./06_Dealing With Pain & Obsessive Thoughts/04_Bringing mindfulness to emotions/03.md
+./06_Dealing With Pain & Obsessive Thoughts/04_Bringing mindfulness to emotions/04.md
+./06_Dealing With Pain & Obsessive Thoughts/04_Bringing mindfulness to emotions/05.md
+./06_Dealing With Pain & Obsessive Thoughts/04_Bringing mindfulness to emotions/06.md
+./06_Dealing With Pain & Obsessive Thoughts/04b_Managing emotions/01.md
+./06_Dealing With Pain & Obsessive Thoughts/04c_Dealing with limiting beliefs/03.md
+./06_Dealing With Pain & Obsessive Thoughts/05_Distracting yourself/01.md
+./06_Dealing With Pain & Obsessive Thoughts/05_Distracting yourself/02.md
+./06_Dealing With Pain & Obsessive Thoughts/05_Distracting yourself/03.md
+./06_Dealing With Pain & Obsessive Thoughts/05_Distracting yourself/04.md
+./06_Dealing With Pain & Obsessive Thoughts/06_Reprogramming Your Brain/01.md
+./06_Dealing With Pain & Obsessive Thoughts/06_Reprogramming Your Brain/02.md
+./06_Dealing With Pain & Obsessive Thoughts/06_Reprogramming Your Brain/03.md
+./06_Dealing With Pain & Obsessive Thoughts/06_Reprogramming Your Brain/04.md
+./06_Dealing With Pain & Obsessive Thoughts/06_Reprogramming Your Brain/05.md
+./06_Dealing With Pain & Obsessive Thoughts/08_Dealing With Fears & Anxieties/01.md
+./06_Dealing With Pain & Obsessive Thoughts/08_Dealing With Fears & Anxieties/02.md
+./06_Dealing With Pain & Obsessive Thoughts/08_Dealing With Fears & Anxieties/03.md
+./06_Dealing With Pain & Obsessive Thoughts/08_Dealing With Fears & Anxieties/04.md
+./06_Dealing With Pain & Obsessive Thoughts/08_Dealing With Fears & Anxieties/05.md
+./06_Dealing With Pain & Obsessive Thoughts/08_Dealing With Fears & Anxieties/06.md
+./06_Dealing With Pain & Obsessive Thoughts/08_Dealing With Fears & Anxieties/07.md
+./06_Dealing With Pain & Obsessive Thoughts/09_Dealing With Obsessive Thoughts/01.md
+./06_Dealing With Pain & Obsessive Thoughts/09_Dealing With Obsessive Thoughts/02.md
+./06_Dealing With Pain & Obsessive Thoughts/09_Dealing With Obsessive Thoughts/03.md
+./06_Dealing With Pain & Obsessive Thoughts/10_Dealing With Setbacks/01.md
+./06_Dealing With Pain & Obsessive Thoughts/10_Dealing With Setbacks/02.md
+./08_Understanding Her Behavior/00_Introduction/Understanding her behavior.md
+./08_Understanding Her Behavior/01_How love works/How love works.md
+./08_Understanding Her Behavior/02_How love can die/How love can die.md
+./08_Understanding Her Behavior/03_How she could move on so fast/How could she move on so fast.md
+./08_Understanding Her Behavior/04_Why she's acting differently/01.md
+./08_Understanding Her Behavior/04_Why she's acting differently/02.md
+./08_Understanding Her Behavior/04_Why she's acting differently/03.md
+./08_Understanding Her Behavior/Does she really love this new guy.md
+./08_Understanding Her Behavior/Why she can’t give you a straight-forward answer.md
+./13_Conclusion/00_Conclusion/Conclusion.md
+./99_Bibliography/01.md

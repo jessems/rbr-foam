@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>01 The Road Ahead.md</string>
+		</array>
+		<array>
+			<string>02 Protest.md</string>
+		</array>
+		<array>
+			<string>03 Despair.md</string>
+		</array>
+		<array>
+			<string>04 Progressing.md</string>
+		</array>
+		<array>
+			<string>05 How do you know you're over her.md</string>
+		</array>
+		<array>
+			<string>06 What is the fastest way to get over her.md</string>
+		</array>
+		<array>
+			<string>07 How long is this going to take.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -22,7 +22,8 @@ module.exports = {
 					'**/.git/**',
 					'**/.github/**',
 					'**/.vscode/**',
-					'**/.cache/**'
+					'**/.cache/**',
+					'*.txt'
 				],
 				// this is an option for extending `gatsby-plugin-mdx` options inside `gatsby-theme-kb`,
 				getPluginMdx(defaultPluginMdx) {
